@@ -38,5 +38,5 @@ makeInt(7)
 function makeInt (n){
 return parseInt(n, 10)
 }
-makeInt(7)
+makeInt(7.55)
 
