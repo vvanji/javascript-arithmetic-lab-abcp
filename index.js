@@ -31,7 +31,7 @@ function dec (n){
 dec (5)
 
 function parsed (n){
-return parseInt('n', 10)
+return parseInt('n')
 }
 parsed(7)
 
