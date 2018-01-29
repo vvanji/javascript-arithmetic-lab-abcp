@@ -44,3 +44,8 @@ function preserveDecimal (n){
 return parseFloat(n)
 }
 preserveDecimal(7.55)
+
+function preserveDecimal (n){
+return parseFloat(n)
+}
+preserveDecimal('7')
