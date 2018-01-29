@@ -41,6 +41,6 @@ return parseInt(n, 10)
 makeInt(7.55)
 
 function preserveDecimal (n){
-return parseInt(n, 10)
+return parseFloat(n)
 }
 preserveDecimal(7.55)
