@@ -1,12 +1,12 @@
 function add (a, b){
-  return a + b // 81
+  return a + b
 } 
 add (1, 80)
 
-function add (a, b){
-  return a + b // 81
+function subtract (a, b){
+  return a - b
 } 
-add (1, 80)
+add (60, 40)
 
 
 60 - 40 // 20
