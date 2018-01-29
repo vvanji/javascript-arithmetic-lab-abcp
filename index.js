@@ -33,3 +33,5 @@ dec (5)
 parseInt('2.2222')
 
 parseFloat(''80.123999'')
+
+makeInt(n)
