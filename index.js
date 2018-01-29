@@ -30,4 +30,4 @@ function dec (n){
 }
 dec (5)
 
-parseInt('nonsense!', 10)
+parseInt(10)
