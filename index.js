@@ -8,10 +8,10 @@ function subtract (a, b){
 } 
 subtract (60, 40)
 
-function subtract (a, b){
-  return a - b
+function multiply (a, b){
+  return a * b
 } 
-subtract (60, 40)
+multiply (2, 3.4)
 
 function subtract (a, b){
   return a - b
