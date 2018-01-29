@@ -34,4 +34,6 @@ parseInt('2.2222')
 
 parseFloat(''80.123999'')
 
-makeInt(n)
+makeInt(5)
+
+preserveDecimal(5.55)
