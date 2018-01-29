@@ -17,3 +17,8 @@ function divide (a, b){
   return a / b
 } 
 divide (5.0, 2.5)
+
+function inc(n){
+  return n++
+}
+inc(5)
