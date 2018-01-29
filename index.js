@@ -30,5 +30,6 @@ function dec (n){
 }
 dec (5)
 
-parseInt('n')
+parseInt('10')
 
+parseFloat('')
