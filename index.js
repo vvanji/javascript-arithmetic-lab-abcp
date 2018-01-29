@@ -24,8 +24,8 @@ function inc (n){
 }
 inc (5)
 
-function inc (n){
-  var result = ++n
+function dec (n){
+  var result = --n
   return result
 }
-inc (5)
+dec (5)
