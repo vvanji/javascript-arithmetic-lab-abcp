@@ -19,6 +19,7 @@ function divide (a, b){
 divide (5.0, 2.5)
 
 function inc (n){
-  return n++
+  var result = n++
+  return result
 }
-inc ()
+inc (5)
