@@ -30,7 +30,7 @@ function dec (n){
 }
 dec (5)
 
-parseInt('2.2222')
+parseInt('2.2222', 10)
 
 parseFloat('80.123999')
 
