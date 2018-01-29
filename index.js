@@ -23,3 +23,9 @@ function inc (n){
   return result
 }
 inc (5)
+
+function inc (n){
+  var result = ++n
+  return result
+}
+inc (5)
