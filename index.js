@@ -21,4 +21,4 @@ divide (5.0, 2.5)
 function inc (n){
   return n++
 }
-inc (5)
+inc ()
