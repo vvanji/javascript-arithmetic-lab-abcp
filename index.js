@@ -30,8 +30,8 @@ function dec (n){
 }
 dec (5)
 
-function parsed (n){
+function makeInt (n){
 return parseInt('n')
 }
-parsed(7)
+makeInt(7)
 
