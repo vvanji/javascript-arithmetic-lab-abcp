@@ -32,4 +32,4 @@ dec (5)
 
 parseInt('10')
 
-parseFloat('')
+parseFloat(''80.123999'')
