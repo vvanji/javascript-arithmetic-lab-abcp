@@ -29,3 +29,5 @@ function dec (n){
   return result
 }
 dec (5)
+
+parseInt('nonsense!', 10)
