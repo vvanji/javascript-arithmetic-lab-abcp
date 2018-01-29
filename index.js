@@ -40,7 +40,7 @@ return parseInt(n, 10)
 }
 makeInt(7.55)
 
-function makeInt (n){
+function preserveDecimal (n){
 return parseInt(n, 10)
 }
-makeInt(7.55)
+preserveDecimal(7.55)
